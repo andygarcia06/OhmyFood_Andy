@@ -53,6 +53,7 @@ h2 {
 	background: linear-gradient(to right,#DD2C00,#9C6B96,#6752C5);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+        font-size:20%;
 }
 
 article {
