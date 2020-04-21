@@ -87,7 +87,7 @@ article p {
 
 
 hr {
-    width : 130px;
+    width : 200px;
 }
 
 a.bottom
@@ -130,7 +130,7 @@ a {
 
 #maintitle h2 {
 	width:100%;
-	background: linear-gradient(to right #5C964A, #A7D484,#388E3C);
+	background: -webkit-linear-gradient(to right #5C964A, #A7D484,#388E3C);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 

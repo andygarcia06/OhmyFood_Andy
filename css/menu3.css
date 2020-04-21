@@ -88,7 +88,7 @@ article h3 {
 }
 
 hr {
-    width : 130px;
+    width : 180px;
 }
 
 a.bottom
@@ -148,18 +148,23 @@ a {
 	display:flex;
 	width:100%;
 	flex-direction: row;
+	justify-content:center;
+	margin:auto;
+	text-align: center;
 }
 
 #pbctitle h3 {
 	text-align:center;
 	margin:auto;
-	padding-left:4%;
+	width:50%;
+
 }
 
 #mat1 {
 	width:25%;
-	margin-left:2%;
-	padding:4% 0 4% 0;
+	padding:4% 0% 4% 0%;
+	margin-left:4%;
+	margin-right:4%;
 }
 
 #mat2 {
@@ -203,26 +208,30 @@ a {
 	display:flex;
 	width:100%;
 	flex-direction: row;
+	justify-content:center;
+	margin:auto;
+	text-align: center;
 }
 
 #pbcotitle h3 {
 	text-align:center;
 	margin:auto;
-	padding-right:0%;
+	width:50%;
 
 }
 
 #pt1 {
 	width:25%;
-	padding:4% 2% 4% 4%;
-	margin-right:3%;
+	padding:4% 0% 4% 0%;
+	margin-left:4%;
+	margin-right:4%;
 }
 
 #pt2 {
 	width:25%;
-	padding:4% 0% 4% 3%;
-	margin-left:1%;
-	margin-right:8%;
+	padding:4% 0% 4% 0%;
+	margin-left:4%;
+	margin-right:4%;
 }
 
 #pt1 hr, #pt2 hr {
@@ -260,28 +269,31 @@ a {
 	display:flex;
 	width:100%;
 	flex-direction: row;
-	padding-left:4%;
+	justify-content:center;
+	margin:auto;
+	text-align: center;
 }
 
 #pbttitle h3 {
 	text-align:center;
 	margin:auto;
-	padding-right:3%;
+	width:50%;
 }
 
 
 
 #gt1 {
 	width:25%;
-	padding:4% 2% 4% 2%;
-	margin-right:3%;
+	padding:4% 0% 4% 0%;
+	margin-left:4%;
+	margin-right:4%;
 }
 
 #gt2 {
 	width:25%;
 	padding:4% 0% 4% 0%;
-	margin-left:3%;
-	margin-right:8%;
+	margin-left:4%;
+	margin-right:4%;
 }
 
 #gt1 hr, #gt2 hr {
