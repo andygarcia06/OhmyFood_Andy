@@ -136,13 +136,15 @@ a {
 	display:flex;
 	width:100%;
 	flex-direction: row;
-	padding-left:4%;
+	justify-content: center;
+	margin-left:3%;
 }
 
 #préludetitle h3 {
 	text-align:center;
 	margin:auto;
 	width:50%;
+	justify-content: center;
 
 }
 
@@ -191,6 +193,7 @@ a {
 	width:100%;
 	flex-direction: row;
 	padding-left:4%;
+	justify-content: center;
 }
 
 #orguetitle h3 {
@@ -243,6 +246,7 @@ a {
 	width:100%;
 	flex-direction: row;
 	padding-left:4%;
+	justify-content: center;
 }
 
 #mouvementtitle h3 {
