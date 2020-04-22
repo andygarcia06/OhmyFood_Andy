@@ -225,6 +225,7 @@ a {
 footer p:hover {
   animation: julespariot 0.8s;
   animation-iteration-count: infinite;
+  animation-play-state: running;
 }
 
 @keyframes julespariot {
@@ -240,6 +241,24 @@ footer p:hover {
   90% { transform: translate(1px, 2px) rotate(0deg); }
   100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
+
+@media only screen and (max-width: 900px){
+
+    footer p:hover {
+     animation-play-state: paused;
+}
+
+   section img {
+   	transition: none;
+   }
+
+   section img:hover {
+   	transform: scale(1);
+   	opacity:1;
+   	
+	 
+}
+	
 
 @media only screen and (max-width: 780px){
 
