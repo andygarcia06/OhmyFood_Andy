@@ -107,6 +107,10 @@ a {
 
 }
 
+h3 a {
+	font-size:150%;
+}
+
 #maintitle {
 	width:100%;
 	display:flex;
