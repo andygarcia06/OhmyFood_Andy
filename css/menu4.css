@@ -505,7 +505,14 @@ footer p:hover {
    	width:100%;
    	text-align:center;
    }
+    a.bottom:before {
+         animation:none;
+         transition:none;
+}
 
+    a.bottom:hover:before {
+  	visibility: hidden
+  }
 	
 }
 
