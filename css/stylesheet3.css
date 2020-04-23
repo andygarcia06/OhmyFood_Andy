@@ -61,7 +61,7 @@ article {
 }
 
 section {
-	width:40%;
+	width:25%;
 	display:flex;
 	margin-top:2%;
 	margin-bottom:2%;
@@ -100,22 +100,24 @@ section img:hover {
 }
 
 #menu1 { 
-	margin-right:-6%;
+	margin-left:20%;
 	
 }
 
 #menu2 { 
-	margin-left:-6%;
+	margin-right:20%;
+
 	
 }
 
 #menu3 { 
-	margin-right:-6%;
+	margin-left:20%;
+	
 	
 }
 
 #menu4 { 
-	margin-left:-6%;
+	margin-right:20%;
 	
 }
 
@@ -280,23 +282,25 @@ header {
 }
 
  #menu1 { 
- 	margin-top:5%;
-	margin-right:0;
-	
+    margin-left:auto;
+    margin-right:auto;	
 }
 
 #menu2 { 
-	margin-left:0;
+    margin-left:auto;
+    margin-right:auto;
 	
 }
 
-#menu3 { 
-	margin-right:0;
+#menu3 {  
+    margin-left:auto;
+    margin-right:auto;
 	
 }
 
 #menu4 { 
-	margin-left:0;
+    margin-left:auto;
+    margin-right:auto;
 	
 }
 
