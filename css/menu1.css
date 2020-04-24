@@ -282,9 +282,11 @@ h3 a {
 
 #mouvementmenu {
 	text-align:center;
-	padding-left:2%;
-	line-height: 33px;
-	margin-bottom: 10%;
+	width:70%;
+        margin: auto;
+        justify-content: center;
+	line-height: 15px;
+	margin-bottom: 5%;
 }
 
 #titleend {
