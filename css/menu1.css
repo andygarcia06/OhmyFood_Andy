@@ -498,6 +498,9 @@ footer p:hover {
     a.bottom:hover:before {
   	visibility: hidden
   }
+    footer p:hover {
+        animation-play-state: paused;
+}
 
  
 }
