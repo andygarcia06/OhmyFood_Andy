@@ -514,6 +514,10 @@ footer p:hover {
   	visibility: hidden
   }
 	
+   footer p:hover {
+        animation-play-state: paused;
+}
+	
 }
 
 
