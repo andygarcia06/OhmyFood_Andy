@@ -172,7 +172,7 @@ section img:hover {
 
 @keyframes dot {
 	50% {opacity:0;
-		transform:scale(0.7) translateY (10px);
+		transform:scale(0.7)
 
 	}
 }
