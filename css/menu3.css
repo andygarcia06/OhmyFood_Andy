@@ -531,6 +531,10 @@ footer p:hover {
     a.bottom:hover:before {
   	visibility: hidden
   }
+	
+    footer p:hover {
+     animation-play-state: paused;
+}
 
 	
 }
@@ -605,7 +609,7 @@ footer p:hover {
 }
 	
 	    h3 a {
-	font-size:90%;
+	font-size:100%;
 }
 
 }
