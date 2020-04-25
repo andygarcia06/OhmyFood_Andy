@@ -277,9 +277,6 @@ header i {
 	margin:auto;
 }
 
-header {
-	font-size:normal;
-}
 
  #menu1 { 
     margin-left:auto;
@@ -309,7 +306,6 @@ header {
 	margin:auto;
 	margin-top:5%;
 	margin-bottom:30%;
-	padding-left:-5px;
 }
 
 }
